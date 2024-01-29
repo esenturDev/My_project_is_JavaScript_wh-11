@@ -1,0 +1,42 @@
+body {
+  background: url(https://software-expert.ru/wp-content/uploads/2020/01/blobid1579928399432.jpg) fixed;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+#color {
+  width: 100px;
+  height: 100px;
+  border: 2px solid #000;
+}
+
+#textInput {
+  margin-left: 470px;
+  width: 298px;
+  height: 35px;
+  border-radius: 15px;
+  border: 2px solid black;
+}
+
+#minisecond {
+  width: 298px;
+  height: 35px;
+  border-radius: 15px;
+  border: 2px solid black;
+}
+
+#startButton {
+  width: 120px;
+  height: 45px;
+  background-color: rgb(19, 19, 218);
+  color: aliceblue;
+  border-radius: 15px;
+}
+
+#stopButton {
+  width: 120px;
+  height: 45px;
+  background-color: rgb(19, 19, 218);
+  color: aliceblue;
+  border-radius: 15px;
+}
